@@ -1,0 +1,14 @@
+langchain
+langchain_groq
+langchain_core
+langchain_community
+python-dotenv
+unstructured[epub]
+pypandoc_binary
+chromadb
+sentence-transformers
+langchain_chroma
+pysqlite3-binary
+streamlit
+torchvision
+rank_bm25

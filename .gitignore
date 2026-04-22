@@ -1,0 +1,6 @@
+.env
+ChromaDB
+History
+__pycache__
+venv
+advisor.py
